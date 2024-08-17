@@ -18,3 +18,10 @@ A cifra de Vigenère é uma extensão da cifra de César, onde o deslocamento é
 1. **Transformação do Texto Criptografado e da Chave em Números**: Similar à criptografia, mas com o texto criptografado e a chave.
 2. **Aplicação do Deslocamento Inverso**: O número correspondente ao texto criptografado é ajustado subtraindo o número da chave, revertendo o texto ao formato original.
 3. **Conversão de Volta para Texto**: O número resultante é convertido novamente em uma letra.
+
+
+## Exemplo de Uso
+Definir como palavra para Criptografar: COMPUTADOR
+Palavra Chave: SEGURANCA
+
+Observação: Para descriptografar basta utilizar o termo criptografado e palavra chave
